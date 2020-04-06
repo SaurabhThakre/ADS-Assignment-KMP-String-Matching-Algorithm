@@ -1,0 +1,106 @@
+body {
+	background-color: violet;
+}
+
+.head1 {
+	text-align: center;
+	color: white;
+	margin-bottom: 50px;
+}
+
+input {
+	border: 2px solid black;
+	background-color: #c4c4c4;
+	padding: 5px 15px;
+	font-size: 15px;
+	text-align: left;
+}
+
+.topSpan{
+	width: 100%;
+}
+
+#search {
+	margin-left: 3%;
+}
+
+button {
+	padding: 5px 15px;
+	font-size: 20px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	background-color: dodgerblue;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+	margin-left: 10px;
+}
+
+button:hover {
+	background-color: #0066ff;
+}
+
+button:active {
+	background-color: #0066ff;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+
+.textbox {
+	border: 1px solid black;
+	background-color: #c4c4c4;
+	height: 500px;
+	width: 50%;
+	margin-top: 10px;
+	font-size: 15px;
+	padding: 20px;
+	text-align: left;
+	margin-left: 3%;
+	float: left;
+}
+
+.hwt-container{
+	border: 1px solid black;
+	background-color: #c4c4c4;
+	height: 500px;
+	width: 50%;
+	margin-top: 10px;
+	font-size: 15px;
+	padding: 20px;
+	text-align: left;
+	margin-left: 3%;
+	float: left;
+}
+
+#display {
+	border: 1px solid black;
+	background-color: #c4c4c4;
+	height: 50px;
+	width: 30%;
+	margin-top: 10px;
+	font-size: 15px;
+	padding: 20px;
+	text-align: left;
+	margin-left: 3%;
+	float: left;
+}
+
+
+#display2 {
+	border: 1px solid black;
+	background-color: #c4c4c4;
+	height: 380px;
+	width: 30%;
+	margin-top: 10px;
+	font-size: 15px;
+	padding: 20px;
+	text-align: left;
+	margin-left: 3%;
+	float: left;
+}
+
+.highlight{
+	background-color: lime;
+}
